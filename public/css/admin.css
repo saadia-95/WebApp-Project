@@ -1,0 +1,107 @@
+table{
+  margin: 0 auto;
+  width: 60%;
+}
+tr{
+  margin-top: 50px;
+}
+
+select{
+  color: black;
+}
+
+.song-form{
+  margin-bottom:15px;
+  margin-top: 15px;
+  height:30px;
+  padding:5px 10px;
+  font-size:12px;
+  line-height:1.5;
+  border-radius:3px;
+}
+
+.butt{
+  /*margin-right: 5%;*/
+  color: #FFFFFF;
+  float: right;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.small-butt {
+    width: 50px;
+    height: 25px;
+}
+
+/*.butt{color:#fff;background-color:#3097d1;border-color:#2a88bd}
+.btn-primary.focus,.btn-primary:focus{color:#fff;background-color:#2579a9;border-color:#133d55}
+.btn-primary.active,.btn-primary:active,.btn-primary:hover,.open>
+.btn-primary.dropdown-toggle{color:#fff;background-color:#2579a9;border-color:#1f648b}
+.btn-primary.active.focus,.btn-primary.active:focus,
+.btn-primary.active:hover,.btn-primary:active.focus,.btn-primary:active:focus,.btn-primary:active:hover,.open>
+.btn-primary.dropdown-toggle.focus,.open>.btn-primary.dropdown-toggle:focus,.open>
+.btn-primary.dropdown-toggle:hover{color:#fff;background-color:#1f648b;border-color:#133d55}
+.btn-primary.active,.btn-primary:active,.open>
+.btn-primary.dropdown-toggle{background-image:none}
+.btn-primary.disabled.focus,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary[disabled].focus,
+.btn-primary[disabled]:focus,
+.btn-primary[disabled]:hover,fieldset[disabled]
+ .btn-primary.focus,fieldset[disabled] 
+.btn-primary:focus,fieldset[disabled] 
+.btn-primary:hover{background-color:#3097d1;border-color:#2a88bd}
+*/
+.bg-faded {
+  background-color: rgba(255, 255, 255, 0.9);
+  display: block;
+}
+.p-4{
+  padding: 1.5rem !important;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+.my-4{
+  margin-top: 1.5rem!important;
+  margin-bottom:  1.5rem!important;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+}
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+.container-fluid {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+}

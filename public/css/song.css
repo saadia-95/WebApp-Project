@@ -1,0 +1,42 @@
+body{
+ font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size:14px;
+  line-height:1.6;
+  color:#636b6f;
+  background: url('../img/Live-Music.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6, .text-heading {
+  font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+/*.ap{
+  width="400"; 
+  height="300"; 
+  border="0";
+  margin-left: 40%;
+  margin-top: 5%;
+}*/
+
+.content{
+  color: white;
+  margin-top: 5%;
+  margin-left: 40%;
+}
